@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Some Books in my Mind"
+date:   2014-02-11 13:36:41
+categories: jekyll update
+---
+
+As a programmer, I love books, however, I hardly finished reading a whole book. I have many books in my mind that I want to read, but have no time.(Maybe there is enough time, I just didn't make full use of it.) Here, I list some of books that I have to finish.
+
+* [Computer Systems](http://item.jd.com/10360906.html)
+> When I studied in university, my mentors had recommended this book to me. And I also know the importance of understanding the basis of computer. There is no doubt that this book is the best one of this field, not one of.
+  
+* [HTTP: The Definitive Guide](http://item.jd.com/11056556.html)
+> If you are a programmer, or if you are a operator, even no matter who you are, this book is the one you must read. Unfortunately, I didn't. 
+
+* [Linux Kernel Development](http://item.jd.com/10664953.html)
+> After I graduated from school and began to work, I realized the importance of Linux. Every company is using this Operating System. Now, I can use some basic commands in Linux. Next, I should focus on the kernel. Now, I am working on [docker](https://www.docker.io/). I hope I can learn some virtualization technology in this book.
+
+* [TCP/IP Illustrated](http://item.jd.com/11311644.html)
+> This book has three volumes. I want to read this book for a long time. I got the first volume of this book from my college classmate, but just read some pages. Later, I need a plan to finish.
+
+These four books I list below are that I want to read most. In the next halt of year, I have to finish it. This passage is to remind me of my reading plan. I hope after halt of year, I can finish this plan and continue next plan.
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
